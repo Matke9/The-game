@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea546d7fdbeeee04785b99f64cac31ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerRaceDrop: {instanceID: 0}
+  - playerCollorDrop: {instanceID: 0}
+  - lobbyScene: {instanceID: 0}
+  - MovingPlayerPrefab: {fileID: 5530859183606808686, guid: 6609a1ba090dff44b8da6985ee58fdbe,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
